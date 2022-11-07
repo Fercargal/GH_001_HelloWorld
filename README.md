@@ -1,2 +1,3 @@
 # GH_001_HelloWorld
-Primer ejemplo de repositorio en GITHUB
+<p>Primer ejemplo de repositorio en GITHUB</>
+este proyecto sirve para las bases GITHUB
